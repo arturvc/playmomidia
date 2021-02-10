@@ -32,7 +32,7 @@ void loop() {
   display.setCursor(x, y); // Posiciona o cursor do texto.
   display.print("#partiu"); // Imprime o valor da variável.
   display.display(); // Atualiza o display.
-  delay(10); // Pausa de 1000 milissegundos, ou 1 segundo.
+  delay(10); // Pausa.
 
   y = y + 1; // Atualiza o valor da variável, adicionando 1.
 
