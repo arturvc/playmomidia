@@ -30,7 +30,7 @@ void loop() {
 
   display.setTextSize(2); // Define o tamanho do texto.
   display.setCursor(x, y); // Posiciona o cursor do texto.
-  display.print("if & else"); // Imprime o valor da variável.
+  display.print("if & else"); // Imprime no display.
   display.display(); // Atualiza o display.
   delay(10); // Pausa.
 
