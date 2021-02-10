@@ -15,4 +15,5 @@ O display Oled é um pequeno dispositivo de mídia de 0,96" com 128x64 pixels. M
 Os cases de plásticos foram fabricados especialmente para o kit PlaymoMídia, com modelagem e impressão 3D realizads em Fortaleza. O suporte do display é "Playmobil *friendly*", tem uma alça compatível com o tamanho da mão do boneco Playmobil.
 
 O kit é entregue montado, com o Arduino Nano e o display dentros dos respectivos cases e com os cabos já conectados, conforme imagem abaixo.
+
 ![Componentes 2](http://arturvc.net.br/img/playmomidia_componentes2.jpg)
