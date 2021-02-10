@@ -11,12 +11,9 @@
     products from Adafruit!" ------> http://www.adafruit.com
 */
 
-// *** Bibliotecas Adafruit GFX e Adafruit SSD1306
 #include <Adafruit_GFX.h> // Inclui a biblioteca GFX.
 #include <Adafruit_SSD1306.h> // Inclui a bibliteoca SSD1306.
 Adafruit_SSD1306 display(-1); // Cria o objeto "display".
-// O "-1" faz parte da configuração de ligação.
-// ***
 
 void setup() {
   display.begin(SSD1306_SWITCHCAPVCC, 0x3C); // Inicia o objeto "display".
