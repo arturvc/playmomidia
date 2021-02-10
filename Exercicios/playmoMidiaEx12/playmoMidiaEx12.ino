@@ -98,11 +98,10 @@ void loop() {
   display.clearDisplay(); // Limpa o display.
 
   // Exibe a imagem com o mapa de bits definido em "myBitmap",
-  // com 128 pixels de largura e 64 de algura
+  // com 128 pixels de largura e 64 de altura.
   display.drawBitmap(0, 0, myBitmap, 128, 64, WHITE); 
   display.display(); // Atualiza o display.
   delay(1000); // Pausa.
-
 
   // Final do código, volta para cima e repete o loop.
 }
