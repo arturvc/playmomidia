@@ -26,7 +26,7 @@ O Arduino Nano é um dos menores microcontroladores da família Arduino, e muito
 
 O display Oled é um pequeno dispositivo de mídia de 0,96" com 128x64 pixels. Mesmo em tamanho reduzido, é possível escrever palavras, elementos gráficos como linhas, círculos e retângulos, bem como importar imagem bitmap e criar animações.
 
-Os cases de plásticos foram fabricados especialmente para o kit PlaymoMídia, com modelagem e impressão 3D realizads em Fortaleza. O suporte do display é "Playmobil *friendly*", tem uma alça compatível com o tamanho da mão do boneco Playmobil.
+Os cases de plásticos foram fabricados especialmente para o kit PlaymoMídia, com modelagem e impressão 3D realizadas em Fortaleza. O suporte do display é "Playmobil *friendly*", tem uma alça compatível com o tamanho da mão do boneco Playmobil.
 
 ![Componentes 1](http://arturvc.net.br/img/playmomidia_comp1.jpg)
 
