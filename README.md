@@ -1,6 +1,5 @@
 # PlaymoMídia - toyart reprogramável
-Desenvolvido por Artur Cordeiro
-Fortaleza, 2021.
+Desenvolvido por Artur Cordeiro - Fortaleza, 2021.
 
 PlaymoMídia é um toyart reprogramável com Playmobil®, Arduino e display Oled de 128x64 pixels. 
 
@@ -16,8 +15,6 @@ Os componentes do kit PlaymoMídia são:
 O kit é entregue montado, com o Arduino Nano e o display dentros dos respectivos cases e com os cabos já conectados, conforme imagem abaixo.
 
 ![Componentes 2](http://arturvc.net.br/img/playmomidia_comp2.jpg)
-
-Componentes do kit PlaymoMídia
 
 ---
 
