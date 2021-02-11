@@ -44,20 +44,29 @@ Posicionamento de caracteres para acentuação das letras.
 #### Exercício 04 - Tamanho do texto
 Configuração do tamanho do texto.
 
-#### Exercício 05 - 
+#### Exercício 05 - Variável numérica
+Introdução à variável de números inteiros.
 
-#### Exercício 06 - 
+#### Exercício 06 - Variáveis e animação
+Usando variável para animar texto.
 
-#### Exercício 07 - 
+#### Exercício 07 - Teste condicional
+Aplicando teste condicional em animação.
 
-#### Exercício 08 - 
+#### Exercício 08 - Laço "for"
+Criando repetições para animar plavras.
 
-#### Exercício 09 - 
+#### Exercício 09 - Variável String
+Introdução à variável de texto.
 
-#### Exercício 10 - 
+#### Exercício 10 - Array de String
+Usando lista de palavras para criar frases aleatórias.
 
-#### Exercício 11 - 
+#### Exercício 11 - Elementos gráficos
+Desenhando com pontos, linhas, retângulos e círculos.
 
-#### Exercício 12 - 
+#### Exercício 12 - Exibindo imagem bitmap
+Uso do mapa de bits para carregar arquivo de imagem.
 
-#### Exercício 13 - 
+#### Exercício 13 - Fontes
+Importando fontes de texto da biblioteca Adafruit GFX
