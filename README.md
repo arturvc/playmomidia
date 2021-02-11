@@ -16,7 +16,7 @@ O kit é entregue montado, com o Arduino Nano e o display dentros dos respectivo
 
 ![Componentes 2](http://arturvc.net.br/img/playmomidia_comp2.jpg)
 
-Para saber mais informações sobre como adquirir o kit PlaymoMídia, visite http://arturvc.net.br/merc_playmomidia.html.
+Para saber como adquirir o kit PlaymoMídia, visite http://arturvc.net.br/merc_playmomidia.html.
 
 ---
 
