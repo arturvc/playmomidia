@@ -3,8 +3,6 @@ Desenvolvido por Artur Cordeiro - http://arturvc.net.br - Fortaleza, 2021.
 
 PlaymoMídia é um toyart reprogramável com Playmobil®, Arduino e display Oled de 128x64 pixels. 
 
-Para saber mais informações sobre como adquirir o kit PlaymoMídia, visite http://arturvc.net.br/merc_playmomidia.html.
-
 Os componentes do kit PlaymoMídia são:
 - 1x Playmobil®;
 - 1x microcontrolador Arduino Nano;
@@ -28,3 +26,38 @@ Os cases de plásticos foram fabricados especialmente para o kit PlaymoMídia, c
 O kit é entregue montado, com o Arduino Nano e o display dentros dos respectivos cases e com os cabos já conectados, conforme imagem abaixo.
 
 ![Componentes 2](http://arturvc.net.br/img/playmomidia_comp2.jpg)
+
+Para saber mais informações sobre como adquirir o kit PlaymoMídia, visite http://arturvc.net.br/merc_playmomidia.html.
+
+## Exercícios
+Os exercícios estão disponíveis neste [repositório](https://github.com/arturvc/playmomidia/tree/main/Exercicios).
+
+#### Exercício 01 - Hello World
+Introdução ao Arduino IDE e comunicação com o display do PlaymoMídia.
+
+#### Exercício 02 - Palavras piscantes
+Extensão do Exercício 01, com sequenciamento de palavras.
+
+#### Exercício 03 - Acentuação de letras
+Posicionamento de caracteres para acentuação das letras.
+
+#### Exercício 04 - Tamanho do texto
+Configuração do tamanho do texto.
+
+#### Exercício 05 - 
+
+#### Exercício 06 - 
+
+#### Exercício 07 - 
+
+#### Exercício 08 - 
+
+#### Exercício 09 - 
+
+#### Exercício 10 - 
+
+#### Exercício 11 - 
+
+#### Exercício 12 - 
+
+#### Exercício 13 - 
