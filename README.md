@@ -16,6 +16,8 @@ O kit é entregue montado, com o Arduino Nano e o display dentros dos respectivo
 
 ![Componentes 2](http://arturvc.net.br/img/playmomidia_comp2.jpg)
 
+Para saber mais informações sobre como adquirir o kit PlaymoMídia, visite http://arturvc.net.br/merc_playmomidia.html.
+
 ---
 
 O boneco Playmobil do kit faz parte da minha coleção e são bonecos usados em boa conservação. Os modelos disponíveis para o kit PlaymoMídia estão listados na [página](http://arturvc.net.br/merc_playmomidia.html) do projeto.
@@ -27,8 +29,6 @@ O display Oled é um pequeno dispositivo de mídia de 0,96" com 128x64 pixels. M
 Os cases de plásticos foram fabricados especialmente para o kit PlaymoMídia, com modelagem e impressão 3D realizads em Fortaleza. O suporte do display é "Playmobil *friendly*", tem uma alça compatível com o tamanho da mão do boneco Playmobil.
 
 ![Componentes 1](http://arturvc.net.br/img/playmomidia_comp1.jpg)
-
-Para saber mais informações sobre como adquirir o kit PlaymoMídia, visite http://arturvc.net.br/merc_playmomidia.html.
 
 ---
 
