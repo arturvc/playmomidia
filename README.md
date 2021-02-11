@@ -1,5 +1,6 @@
 # PlaymoMídia - toyart reprogramável
-Desenvolvido por Artur Cordeiro - http://arturvc.net.br - Fortaleza, 2021.
+Desenvolvido por Artur Cordeiro
+Fortaleza, 2021.
 
 PlaymoMídia é um toyart reprogramável com Playmobil®, Arduino e display Oled de 128x64 pixels. 
 
@@ -12,8 +13,13 @@ Os componentes do kit PlaymoMídia são:
 - 1x caixa do display, fabricada com impressão 3D;
 - 1x cabo USB tipo Mini-B.
 
-![Componentes 1](http://arturvc.net.br/img/playmomidia_comp1.jpg)
+O kit é entregue montado, com o Arduino Nano e o display dentros dos respectivos cases e com os cabos já conectados, conforme imagem abaixo.
 
+![Componentes 2](http://arturvc.net.br/img/playmomidia_comp2.jpg)
+
+Componentes do kit PlaymoMídia
+
+---
 
 O boneco Playmobil do kit faz parte da minha coleção e são bonecos usados em boa conservação. Os modelos disponíveis para o kit PlaymoMídia estão listados na [página](http://arturvc.net.br/merc_playmomidia.html) do projeto.
 
@@ -23,11 +29,11 @@ O display Oled é um pequeno dispositivo de mídia de 0,96" com 128x64 pixels. M
 
 Os cases de plásticos foram fabricados especialmente para o kit PlaymoMídia, com modelagem e impressão 3D realizads em Fortaleza. O suporte do display é "Playmobil *friendly*", tem uma alça compatível com o tamanho da mão do boneco Playmobil.
 
-O kit é entregue montado, com o Arduino Nano e o display dentros dos respectivos cases e com os cabos já conectados, conforme imagem abaixo.
-
-![Componentes 2](http://arturvc.net.br/img/playmomidia_comp2.jpg)
+![Componentes 1](http://arturvc.net.br/img/playmomidia_comp1.jpg)
 
 Para saber mais informações sobre como adquirir o kit PlaymoMídia, visite http://arturvc.net.br/merc_playmomidia.html.
+
+---
 
 ## Exercícios
 Os exercícios estão disponíveis neste [repositório](https://github.com/arturvc/playmomidia/tree/main/Exercicios).
