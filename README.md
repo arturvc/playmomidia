@@ -20,7 +20,7 @@ Para saber como adquirir o kit PlaymoMídia, visite http://arturvc.net.br/merc_p
 
 ---
 
-O boneco Playmobil do kit faz parte da minha coleção e são bonecos usados em boa conservação. Os modelos disponíveis para o kit PlaymoMídia estão listados na [página](http://arturvc.net.br/merc_playmomidia.html) do projeto.
+O boneco Playmobil do kit faz parte da minha coleção e são bonecos usados em boa conservação. Os modelos disponíveis para o kit PlaymoMídia estão listados na [página](http://arturvc.net.br/proj_playmomidia.html) do projeto.
 
 O Arduino Nano é um dos menores microcontroladores da família Arduino, e muito versátil. Pode ser usado para outras aplicações e funcionalides, não se restringindo ao uso com display Oled. Todavia, o uso do Arduino Nano no contexto do kit PlaymoMídia é focado na programação e comunicação com o display. 
 
