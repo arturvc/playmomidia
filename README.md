@@ -16,8 +16,6 @@ O kit é entregue montado, com o Arduino Nano e o display dentros dos respectivo
 
 ![Componentes 2](http://arturvc.net.br/img/playmomidia_comp2.jpg)
 
-Para saber como adquirir o kit PlaymoMídia, visite http://arturvc.net.br/merc_playmomidia.html.
-
 ---
 
 O boneco Playmobil do kit faz parte da minha coleção e são bonecos usados em boa conservação. Os modelos disponíveis para o kit PlaymoMídia estão listados na [página](http://arturvc.net.br/proj_playmomidia.html) do projeto.
